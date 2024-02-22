@@ -1,0 +1,4 @@
+dist: jammy
+language: minimal
+script: echo "Eyup!"
+Install: skip
